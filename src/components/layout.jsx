@@ -20,7 +20,7 @@ export default ({ children }) => (<StaticQuery
   <div style={{ margin: `0 auto`, maxWidth: `700px`, padding: `2%`, paddingTop: `1.5%` }}>
          <Helmet>
           <meta charSet="utf-8" />
-          <title>My Title</title>
+          <title>Pandas Eating lots</title>
           <link rel="canonical" href="http://mysite.com/example" />
         </Helmet>
     <Link to={`/`}>

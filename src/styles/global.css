@@ -1,7 +1,15 @@
 html {
   background-color: lavenderblush;
 }
+div { 
+      margin: 30px 80px 25px 70px;
+      max-width: 1000px;
+      max-height: 900px;
+      padding: 18px;
+      padding-top: 16px;
+      border: 1px solid red;
 
+  }
 h3 {
           margin-bottom: 48px;
           display: inline-block;
